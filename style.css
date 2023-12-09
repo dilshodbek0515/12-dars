@@ -1,0 +1,29 @@
+.container {
+    width: 1000px;
+    height: 600px;
+    background-color: aqua;
+    margin: auto;
+    justify-content: center;
+    display: flex;
+}
+
+.content {
+    width: 200px;
+    height: 300px;
+    background-color: red;
+    margin: auto;
+}
+
+.contentbox {
+    width: 200px;
+    height: 300px;
+    margin: auto;
+    background-color: bisque;
+}
+
+.contentboxing {
+    width: 200px;
+    height: 300px;
+    margin: auto;
+    background-color: gold;
+}
